@@ -12,7 +12,7 @@
  - Ifttt account
     - Connect Gmail
     - Connect Google Assistant
- - VIM
+ - VIM *optional
     - Vim is necessary because of line-folding is done. 
 
 ## Ifttt Template
