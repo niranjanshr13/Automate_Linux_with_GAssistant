@@ -70,6 +70,7 @@ Actions
 ```
  - Everything that python + OS can do; even shutdown the system.
  - ^^^ Everythings.
+ - Configure this in Raspberry Pi; and control any GPIO module.
 ```
 
 

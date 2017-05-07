@@ -32,7 +32,6 @@ def get_subjects(email_ids):
 #{{{ Actions
 actions = {}
 actions["Laptop_Lock"] = ["laptop locking", "subprocess.call(['i3lock', '-c', '000000'])"]
-actions["Open Chrome"] = ["Opening Chrome", "subprocess.call(['firefox'])"]
 #}}}
 #{{{ Main
 while True:
